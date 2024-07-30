@@ -8,8 +8,6 @@ const tens = [
     '', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety'
 ];
 
-//999 99
-
 module.exports = function toReadable (number) {
   let result = '';
 
